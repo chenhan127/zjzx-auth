@@ -1,0 +1,9 @@
+com\zjzx\serviceconfig\BeanConfiguration.class
+com\zjzx\service\PersionauthService.class
+com\zjzx\controller\CompanyauthController.class
+com\zjzx\Xjzx_auth9088.class
+com\zjzx\dao\CompanyauthDao.class
+com\zjzx\service\CompanyauthService.class
+com\zjzx\serviceconfig\ActiveRecordConfig.class
+com\zjzx\dao\PersionauthDao.class
+com\zjzx\controller\PersionauthController.class
